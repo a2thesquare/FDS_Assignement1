@@ -9,4 +9,8 @@ dependencies = [
     "pandas>=3.0.6",
     "scikit-learn>=1.9.1",
     "seaborn>=0.13.2",
+<<<<<<< HEAD
+=======
+    "sentence-transformers>=6.1.0",
+>>>>>>> 5d06266e04303f34f0198cd6796c044972f100f5
 ]
